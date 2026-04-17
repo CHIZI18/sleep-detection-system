@@ -36,3 +36,30 @@ It is designed for applications like:
 ---
 
 ## 📁 Project Structure
+main.py              
+# Main detection system requirements.txt     
+# Dependencies alert.wav            
+# Alert sound (optional)
+
+---
+
+## 📌 Current Status
+⚠️ Actively under development and optimization
+
+---
+
+## 🎥 Demo
+(Add your demo video link here)
+
+---
+
+## 📈 Future Improvements
+- Improve detection accuracy under varying lighting conditions
+- Optimize for embedded systems (ESP32 / Jetson)
+- Add deep learning-based detection (YOLO / CNN)
+- Enhance multi-user tracking
+
+---
+
+## 👨‍💻 Author
+Elewa Chizi Prince
